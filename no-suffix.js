@@ -4,7 +4,7 @@
 // @icon               https://wsrv.nl/?url=https://api.mobilecardspro.com/public/images/favicon.ico
 // @author             Jason Kwok
 // @namespace          https://jasonhk.dev/
-// @version            3.0.0
+// @version            4.0.0
 // @license            MIT
 // @match              https://api.mobilecardspro.com/m/p/a/seito/*
 // @run-at             document-end

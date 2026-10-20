@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name               Greasy Fork Webhook Test
+// @name               Greasy Fork Webhook Example
 // @description        N/A
 // @icon               https://wsrv.nl/?url=https://api.mobilecardspro.com/public/images/favicon.ico
 // @author             Jason Kwok
